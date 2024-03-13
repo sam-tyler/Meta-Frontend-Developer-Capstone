@@ -1,4 +1,4 @@
-# Little Lemon Booking Website
+# Little Lemon Website
 
 ## Project Description
 This project was made during the Meta Front-End Development Course. This website is the culmination of the Front-End Development Course.
